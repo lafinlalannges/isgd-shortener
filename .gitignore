@@ -1,0 +1,30 @@
+# Xcode
+DerivedData/
+xcuserdata/
+*.xcworkspace
+*.xccheckout
+*.xcscmblueprint
+
+# Build 產物
+build/
+Build/
+*.o
+*.cmd
+*.dSYM
+*.ipa
+
+# macOS 資訊
+.DS_Store
+
+# 發行檔、打包檔
+*.zip
+*.dmg
+*.pkg
+
+# 你專案底下用來放發行檔的資料夾（依你實際命名調整）
+Distributed App/
+*.zip
+*.dmg
+*.pkg
+
+Releases/
