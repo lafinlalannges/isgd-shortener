@@ -1,6 +1,9 @@
 //
-//  isgdURLShortenerAPp.swift
-//  isgd URL Shortener
+//  isgdShortenerAPp.swift
+//  isgd Shortener
+//
+//  這是一個把 iOS/IpadOS Safari.app縮短網址的功能，實現在電腦版 Safari.app上面的 App。
+//  2025/12/25 新增 Safari Extension功能，目前暫無 Apple開發者的身分，因此啟用此功能需要使用者做其他設定才能使用。
 //
 //  Created by Lafin Lalannges on 2025/12/3.
 //
